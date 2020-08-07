@@ -10,5 +10,6 @@ Todo:
   (Without the need to restart the app)
 - [x] Spelling... 
 
-Known bugs:
+Fixes 1.2.0.1:
+
 * The "ignore aspect ratio" checkbox isn't honored when the image list refreshes due to a change of scale/resolution.
