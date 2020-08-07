@@ -9,3 +9,6 @@ Todo:
 - [x] Dynamic update of resolution, DPI, scale and the image list on change.
   (Without the need to restart the app)
 - [x] Spelling... 
+
+Known bugs:
+* The "ignore aspect ratio" checkbox isn't honored when the image list refreshes due to a change of scale/resolution.
